@@ -1,0 +1,96 @@
+/*Design and developed by centracle team*/
+.cen_r_h{
+	width:100%;
+	height:50px;
+	/*background:#295ECB;*/
+}
+
+.window_metrix{
+	margin:auto; width:1000px;
+}
+
+
+.cen_c_c{
+	
+	position: absolute;
+	width: 100%;
+	top: 70px;
+	bottom: 0;
+	left: 0;
+	right:0;
+	overflow-y:scroll;
+}
+
+
+.cen_c_qw{
+	
+   margin:auto;
+   width:98%	
+}
+
+
+.con_w_window{
+	position: absolute;
+	width: 1126px;
+	top: 0;
+	/*overflow-y:scroll;*/
+	border: 2px solid #48679F; 
+	margin-left:1%;
+	bottom: 20px;
+}
+
+
+.con_w_window_part{
+	position: absolute;
+	width: 600px;
+	top: 0;
+	/*overflow-y:scroll;*/
+	border: 2px solid #48679F; 
+	margin-left:1%;
+	bottom: 20px;
+}
+
+.con_w_window_state{
+	position: absolute;
+	width: 973px;
+	top: 0;
+	/*overflow-y:scroll;*/
+	border: 2px solid #48679F; 
+	margin-left:1%;
+	bottom: 20px;
+}
+
+.con_w_window_const{
+	position: absolute;
+	width: 1015px;
+	top: 0;
+	/*overflow-y:scroll;*/
+	border: 2px solid #48679F; 
+	margin-left:1%;
+	bottom: 20px;
+}
+
+
+.con_w_window_h{
+	width:100%;
+	height:30px;
+	background:#48679F;
+}
+
+.con_w_window_st{
+	width:100%;
+	height:35px;
+	background:#DFDFDF;
+	border-bottom:1px solid #FFF;
+}
+
+.con_w_window_c{
+	width:100%;
+	position: absolute;
+	top: 65px;
+	bottom: 0px;
+	overflow-y:scroll;
+	overflow-x:scroll;
+}
+
+

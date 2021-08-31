@@ -1,0 +1,9 @@
+[10-May-2015 11:25:18 CST6CDT] PHP Fatal error:  Class 'Swift_Encoder_QpEncoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Mime/ContentEncoder/QpContentEncoder.php on line 19
+[10-May-2015 11:27:20 CST6CDT] PHP Fatal error:  Class 'Swift_Encoder_Base64Encoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Mime/ContentEncoder/Base64ContentEncoder.php on line 20
+[10-May-2015 11:28:21 CST6CDT] PHP Fatal error:  Interface 'Swift_Mime_ContentEncoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Mime/ContentEncoder/PlainContentEncoder.php on line 20
+[02-Aug-2015 17:42:03 CST6CDT] PHP Fatal error:  Class 'Swift_Encoder_Base64Encoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Mime/ContentEncoder/Base64ContentEncoder.php on line 20
+[02-Aug-2015 17:42:07 CST6CDT] PHP Fatal error:  Interface 'Swift_Mime_ContentEncoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Mime/ContentEncoder/PlainContentEncoder.php on line 20
+[02-Aug-2015 17:42:11 CST6CDT] PHP Fatal error:  Class 'Swift_Encoder_QpEncoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Mime/ContentEncoder/QpContentEncoder.php on line 19
+[18-Nov-2015 14:33:12 CST6CDT] PHP Fatal error:  Class 'Swift_Encoder_Base64Encoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Mime/ContentEncoder/Base64ContentEncoder.php on line 20
+[18-Nov-2015 14:33:39 CST6CDT] PHP Fatal error:  Class 'Swift_Encoder_QpEncoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Mime/ContentEncoder/QpContentEncoder.php on line 19
+[18-Nov-2015 14:34:46 CST6CDT] PHP Fatal error:  Interface 'Swift_Mime_ContentEncoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Mime/ContentEncoder/PlainContentEncoder.php on line 20

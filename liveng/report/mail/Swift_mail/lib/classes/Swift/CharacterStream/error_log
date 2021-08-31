@@ -1,0 +1,6 @@
+[10-May-2015 10:25:19 CST6CDT] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 21
+[10-May-2015 11:11:04 CST6CDT] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/CharacterStream/NgCharacterStream.php on line 32
+[02-Aug-2015 17:36:52 CST6CDT] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 21
+[02-Aug-2015 17:36:56 CST6CDT] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/CharacterStream/NgCharacterStream.php on line 32
+[17-Nov-2015 22:38:00 CST6CDT] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 21
+[17-Nov-2015 22:39:29 CST6CDT] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/CharacterStream/NgCharacterStream.php on line 32

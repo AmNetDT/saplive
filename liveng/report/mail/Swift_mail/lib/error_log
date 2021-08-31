@@ -1,0 +1,16 @@
+[09-May-2015 11:04:18 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/cache_deps.php on line 3
+[09-May-2015 16:29:19 CST6CDT] PHP Fatal error:  Class 'Swift_Preferences' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/preferences.php on line 10
+[09-May-2015 16:53:38 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/greatbr/public_html/census/mail/Swift_mail/lib/Swift.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/greatbr/public_html/census/mail/Swift_mail/lib/swift_required_pear.php on line 21
+[31-Jul-2015 21:17:35 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/cache_deps.php on line 3
+[01-Aug-2015 07:37:44 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/cache_deps.php on line 3
+[01-Aug-2015 12:43:47 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/cache_deps.php on line 3
+[01-Aug-2015 17:44:45 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/cache_deps.php on line 3
+[02-Aug-2015 17:32:29 CST6CDT] PHP Fatal error:  Class 'Swift_Preferences' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/preferences.php on line 10
+[02-Aug-2015 17:32:33 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/cache_deps.php on line 3
+[02-Aug-2015 17:32:40 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/greatbr/public_html/census/mail/Swift_mail/lib/Swift.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/greatbr/public_html/census/mail/Swift_mail/lib/swift_required_pear.php on line 21
+[26-Aug-2015 09:15:24 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/cache_deps.php on line 3
+[11-Sep-2015 06:52:31 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/cache_deps.php on line 3
+[26-Sep-2015 23:35:52 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/cache_deps.php on line 3
+[17-Nov-2015 22:23:32 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/cache_deps.php on line 3
+[17-Nov-2015 22:23:42 CST6CDT] PHP Fatal error:  Class 'Swift_Preferences' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/preferences.php on line 10
+[17-Nov-2015 22:23:54 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/greatbr/public_html/census/mail/Swift_mail/lib/Swift.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/greatbr/public_html/census/mail/Swift_mail/lib/swift_required_pear.php on line 21

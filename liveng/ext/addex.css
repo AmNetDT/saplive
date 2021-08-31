@@ -1,0 +1,231 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 3, 2016, 1:42:44 PM
+    Author     : Paul A. Olukayode
+*/
+/* CSS Document */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body{ background:#FCFCFC;}
+
+input,textarea,select {outline:none !important;}
+html { height:100%; width:100%; background: #185E87}
+
+div#body_container{ 
+    width:100%; 
+    margin:auto; 
+    height:518px;
+    max-width:100%;	
+    background:url(../ext/bg.png);
+	
+}
+
+div#body_footer{
+	
+    
+    width:100%; 
+    max-width:100%;
+    height: auto;
+    background: #185E87;
+}
+
+div#body_footer_copy{
+    
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+	}
+	
+div#body_footer{
+    width:100%; 
+    max-width:100%;
+    height: auto;
+    background: #185E87;
+}
+
+#table_id{
+ padding:5px;
+ margin:5px;
+}
+div#body_footer_copy{
+    
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px; 
+    color:#C1E1F4;
+	margin-bottom:20px;
+
+}
+
+#body_container_login{
+   height:400px;
+   width:100%;
+}
+
+
+#body_container_login #left{
+   float:left;
+   padding-left: 20px;
+   margin-top:20px;	
+}
+
+#body_container_login #right{
+   float:right;
+   margin-right: 50px;
+   height: auto;
+   width:350px;
+   background:#FFFFFF;
+   margin-top:50px;
+   padding-bottom:20px;
+   padding-top:20px;
+   margin-bottom:30px;
+ }
+ 
+ #submitButton input{
+	padding: 5px 10px 5px 10px;
+	width:70px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #DDDDD8 #AFAFAF #797975;
+    background:  url(../administration/image/but.png) repeat-x center bottom;
+	font-family:Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-size: 13px;
+    white-space: nowrap;
+    overflow: visible; /* keeps IE from making buttons too wide */
+	font-weight:bold;
+	cursor:pointer;
+}
+
+#submitButton input:hover{
+    border-color: #ACBACF #768092 #0A0B19;
+    background: #EDFFFF url(../administration/image/buts.png) repeat-x center bottom;
+	cursor:pointer;
+}
+
+#submitButton input:active {
+    border-color:  #00000A #677183 #9DABC0;
+    background: url(../administration/Images/butss.png) repeat-x center bottom;
+}
+ 
+ #formtitle{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:13px;
+  font-weight:bold;
+  text-align:left;
+  margin-right:10px;
+  margin-left:10px;
+  padding:5px;
+ }
+ 
+ #formtitle_input input{
+     padding:3px;
+    width:175px;
+    border: solid 1px #E5E5E5;	
+	display:block;
+	font-size:17px;
+	/*background:	#EEEEEE ;*/
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+	font-weight:bold;
+	padding:5px;
+ }
+ 
+ #loaders{
+   display:none;
+ }
+ 
+ 
+ 
+ #app_cpb{
+  width:100%; 
+  background:#FFFFFF;
+  height:550px;
+ }
+ 
+ 
+ #pwsd_con{
+   padding-top:60px;
+   margin-left:100px;
+ }
+ 
+ #pwsd_con #chpwsd{
+   font-family:Arial, Helvetica, sans-serif;
+   font-size:16px;
+   font-weight:bold;
+   color:  #185E87;
+   margin-bottom:30px;
+ }
+ 
+ 
+ #pwsdtext{
+   font-family:Arial, Helvetica, sans-serif;
+   font-size:13px;
+   font-weight:bold;
+   margin-bottom:4px;
+ }
+ 
+ 
+ #pwsdinput{ margin-bottom:10px;}
+ 
+ #pwsdinput input{
+    padding:5px;
+    width:200px;
+    border: solid 1px #E5E5E5;	
+	display:block;
+	/*background:	#EEEEEE ;*/
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+	font-weight:bold;
+}
+
+
+#butossPws button {
+    padding: 4px 6px 4px;
+	width:140px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #DDDDD8 #AFAFAF #797975;
+    background:  url(../administration/image/but.png) repeat-x center bottom                                ;
+	font-family:Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: visible; /* keeps IE from making buttons too wide */
+	font-weight:bold;
+	margin-bottom:3px;
+	cursor:pointer;
+	margin-top:10px;
+}
+
+
+#butossPws button:hover{
+ border-color: #ACBACF #768092 #0A0B19;
+    background: #EDFFFF url(../administration/image/buts.png) repeat-x center bottom;
+	cursor:pointer;		
+}
+ 
+ 
+ 

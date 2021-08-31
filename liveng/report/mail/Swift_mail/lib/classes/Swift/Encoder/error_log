@@ -1,0 +1,9 @@
+[10-May-2015 05:26:04 CST6CDT] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Encoder/QpEncoder.php on line 20
+[10-May-2015 05:27:06 CST6CDT] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Encoder/Rfc2231Encoder.php on line 19
+[10-May-2015 05:29:10 CST6CDT] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Encoder/Base64Encoder.php on line 19
+[02-Aug-2015 17:36:59 CST6CDT] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Encoder/Base64Encoder.php on line 19
+[02-Aug-2015 17:37:03 CST6CDT] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Encoder/QpEncoder.php on line 20
+[02-Aug-2015 17:37:07 CST6CDT] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Encoder/Rfc2231Encoder.php on line 19
+[17-Nov-2015 22:36:58 CST6CDT] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Encoder/QpEncoder.php on line 20
+[17-Nov-2015 22:37:19 CST6CDT] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Encoder/Rfc2231Encoder.php on line 19
+[17-Nov-2015 22:37:32 CST6CDT] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/classes/Swift/Encoder/Base64Encoder.php on line 19

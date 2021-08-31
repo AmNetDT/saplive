@@ -1,0 +1,798 @@
+/* CSS Document */
+
+/* CSS Document */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+
+
+input,textarea,select {outline:none !important;}
+html { height:100%; width:100%;}
+
+div#body_general{ 
+   
+    height:auto;
+    width:auto;
+	margin-left:10px;	
+}
+
+
+div#body_generals{ 
+   
+    height:auto;
+    width:400px;
+		
+}
+
+
+div#body_generalswe{ 
+   
+    height:auto;
+    width:800px;
+		
+}
+
+#body_generalw{
+	 
+    height:auto;
+    width:300px;
+	margin:auto;
+}
+
+#uppersw table{
+	width:300px;
+	}
+
+#membrs_tables{
+	width:700px;
+	border: solid 1px #E5E5E5;
+	padding:5px;
+	margin-left:20px;
+}
+
+#membrs_tablessr{
+    width:700px;
+	border: solid 1px #E5E5E5;
+	padding:5px;
+	margin-left:20px;
+}
+
+#table_resultscnp{
+  width:815px;
+  height:210px;
+  margin-top:5px;
+  overflow-x:scroll;
+  border: solid 1px #E5E5E5;
+  background:#FFFFFF;
+  margin-top:-7px;
+}
+
+#table_results,#table_results_disable{
+  width:700px;
+  height:210px;
+  margin-top:5px;
+  overflow:scroll;
+  border: solid 1px #E5E5E5;
+  background:#FFFFFF
+}
+
+#table_results table,#table_results_disable table{
+ width:683px;
+}
+
+#table_results_sign{
+  width:780px;
+  height:150px;
+  margin-top:20px;
+  overflow:scroll;
+  border: solid 1px #E5E5E5;
+  background:#FFFFFF;
+  margin-bottom:30px;
+  position:relative;
+}
+
+
+
+#table_results_members{
+  width:700px;
+  height:150px;
+  margin-top:20px;
+  overflow:scroll;
+  border: solid 1px #E5E5E5;
+  background:#FFFFFF;
+  margin-bottom:30px;
+  position:relative;
+}
+
+#uppersSign table{
+  width:700px;
+  position:relative;
+}
+
+#uppers table{
+  width:700px;
+}
+
+#uppersq table{
+  width:400px;
+}
+
+
+#uppersqweQ table{
+  width:530px;
+  margin-left:60px;
+}
+
+#uppersqwe table{
+  width:800px;
+}
+
+tr.rowOdd td{
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:12px;
+ font-weight:bold;
+ padding-left:10px;
+}
+
+#inputName{
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:12px;
+ font-weight:bold;
+ text-align:left;
+}
+
+
+#inputNameDisable{
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:12px;
+ font-weight:bold;
+ text-align:left;
+ color: #CACACA;
+}
+
+
+
+#inputNames{ 
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:12px;
+ font-weight:bold;
+ text-align:left;
+ width:250px;
+}
+
+#perIndicator{
+font-family:Arial, Helvetica, sans-serif;
+ font-size:13px;
+ font-weight:bold;
+ padding:2px; 
+ text-align:right;
+ margin-right:10px;
+ margin-bottom:10px;
+ text-decoration:underline;
+ color:#224889;
+	}
+
+
+
+#formInputsSearch{ 
+ padding:3px; 
+}
+
+
+#formInputs button.cusSet{
+	width:35px;
+	height:25px;
+	padding:0;
+	background: #D6D6D6;
+	border: solid 1px #E5E5E5;	
+	cursor:pointer;
+}
+
+#formInputsSearch input{
+	  padding:3px;
+    width:130px;
+    border: solid 1px #E5E5E5;	
+	display:block;
+	font-size:16px;
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+	font-weight:bold;
+	}
+
+#formInputsFiles input{
+    padding: 3px;
+    border-color: #DDDDD8 #AFAFAF #797975;
+	font-family:Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-size: 12px;
+    white-space: nowrap;
+	font-weight:bold;
+    overflow: visible; /* keeps IE from making buttons too wide */
+	}
+	
+#formInputsFilesName input{
+    padding: 3px;
+    border-color: #DDDDD8 #AFAFAF #797975;
+	font-family:Arial, Helvetica, sans-serif;
+    color: #CACACA;
+    font-size: 12px;
+    white-space: nowrap;
+	font-weight:bold;
+    overflow: visible; /* keeps IE from making buttons too wide */
+	}
+
+
+#listButs{
+	text-align:left;
+	position:absolute;
+	left:370px;
+	left:450px;
+	}
+	
+#listButss{
+	text-align:left;
+	position:absolute;
+	left:370px;
+}	
+	
+	
+	
+
+	
+#inputChecbox{
+font-family:Arial, Helvetica, sans-serif;
+color: #000000;
+font-size: 12px;
+font-weight:bold;	
+}	
+	
+#listButs input,#listButs_pt input,#listButss input{
+	
+	padding: 5px 9px 5px;
+	width:70px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #DDDDD8 #AFAFAF #797975;
+    background:  url(../customerManagement/image/but.png) repeat-x center bottom                                ;
+	font-family:Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-size: 12px;
+    white-space: nowrap;
+    overflow: visible; /* keeps IE from making buttons too wide */
+	font-weight:bold;
+	margin-bottom:3px;
+	cursor:pointer;
+	}	
+	
+	#butoss{
+	   margin-left:20px; margin-top:10px;
+	}
+	#butoss input , #butoss button {
+	
+	padding: 4px 6px 4px;
+	width:90px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #DDDDD8 #AFAFAF #797975;
+    background:  url(../customerManagement/image/but.png) repeat-x center bottom                                ;
+	font-family:Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-size: 15px;
+    white-space: nowrap;
+    overflow: visible; /* keeps IE from making buttons too wide */
+	font-weight:bold;
+	margin-bottom:3px;
+	cursor:pointer;
+	}	
+	
+#listButs input:hover,#signG:hover,#members:hover,#listButs_pt input:hover, #butoss input:hover,#butoss button:hover{
+ border-color: #ACBACF #768092 #0A0B19;
+    background: #EDFFFF url(../customerManagement/image/buts.png) repeat-x center bottom;
+	cursor:pointer;		
+}
+	
+
+#formInputsFile input{
+    padding:5px;
+	display:block;
+	font-size:16px;
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+	font-weight:bold;
+	width:100px;
+}
+
+#formInputsq{
+ padding:3px; 
+ margin-right:10px;
+ text-align:right
+}
+
+#formInputsq select{
+  padding:3px;
+  width:130px;
+  border: solid 1px #E5E5E5;	
+  font-size:16px;
+  background:	#EEEEEE  ;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:12px;
+}
+
+#chatTa{border: solid 1px #E5E5E5; width:600px; height:200px; margin-top:30px; margin-left:40px;background:	#EEEEEE; overflow:scroll;}
+
+#formInputsy{
+	 padding:3px; 
+ margin-right:2px;
+	}
+
+#formInputsy input{
+    padding:3px;
+    width:130px;
+    border: solid 1px #E5E5E5;	
+	display:block;
+	font-size:16px;
+	background:	#EEEEEE ;
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+	font-weight:bold;
+}
+
+#search_penel {	
+	display:block;
+	font-size:16px;
+	padding:5px;
+}
+
+#seDES{
+	margin-left:5px
+}
+
+#seDES select{
+	padding:2px;
+	background:	#EEEEEE ;
+	width:200px;
+	border: solid 1px #E5E5E5;	
+}
+
+
+#saech_bottons{
+	padding: 2px 3px 2px;
+	width:105px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #DDDDD8 #AFAFAF #797975;
+    background:  url(../customerManagement/image/but.png) repeat-x center bottom                                ;
+	font-family:Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-size: 13px;
+    white-space: nowrap;
+    overflow: visible; /* keeps IE from making buttons too wide */
+	font-weight:bold;
+	}
+
+#formInputs input{
+    padding:3px;
+    width:155px;
+    border: solid 1px #E5E5E5;	
+	display:block;
+	font-size:13px;
+	/*background:	#EEEEEE ;*/
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+	font-weight:bold;
+}
+
+
+#formInputsSame select{
+    padding:3px;
+    width:200px;
+    border: solid 1px #E5E5E5;	
+	display:block;
+	/*background:	#EEEEEE ;*/
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+	font-weight:bold;
+}
+
+
+#formInputsSam input{
+    padding:3px;
+    width:191px;
+    border: solid 1px #E5E5E5;	
+	display:block;
+	/*background:	#EEEEEE ;*/
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+	font-weight:bold;
+	padding-left:8px;
+}
+
+#formInputsqm input{
+    padding:3px;
+    width:50px;
+    border: solid 1px #E5E5E5;	
+	display:block;
+	/*background:	#EEEEEE ;*/
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+	font-weight:bold;
+	padding-left:6px;
+}
+
+#formInputsss input{
+    padding:3px;
+    width:155px;
+    border: solid 1px #E5E5E5;	
+	display:block;
+	font-size:16px;
+	background:	#EEEEEE ;
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+	font-weight:bold;
+}
+
+
+#formInputs_readonly input{
+    padding:3px;
+    width:155px;
+    border: solid 1px #E5E5E5;	
+	display:block;
+	font-size:16px;
+	background:	#EEEEEE ;
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+	font-weight:bold;	
+}
+
+
+
+
+#formInputs input:focus,#formInputsy input:focus,#formInputsSearch input:focus,textarea#textareae:focus{
+background:#FFFFFF;
+}
+
+
+
+#formInputs select{
+  padding:4px;
+  width:110px;
+  border: solid 1px #E5E5E5;	
+  display:block;
+  font-size:16px;
+  /*background:	#EEEEEE ;*/
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:12px;
+  font-weight:bold;
+}
+
+
+#formInputsGenCon select{
+  padding:5px;
+  width:210px;
+  border: solid 1px #E5E5E5;	
+  display:block;
+  font-size:16px;
+  /*background:	#EEEEEE ;*/
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:12px;
+  font-weight:bold;
+}
+
+
+#formInputsGenCon input{
+  padding:5px;
+  width:200px;
+  border: solid 1px #E5E5E5;	
+  display:block;
+  font-size:16px;
+  /*background:	#EEEEEE ;*/
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:12px;
+  font-weight:bold;
+}
+
+
+#formInputs_readonly select{
+  padding:5px;
+  width:110px;
+  border: solid 1px #E5E5E5;	
+  display:block;
+  font-size:16px;
+  background:	#EEEEEE ;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:12px;
+  font-weight:bold;
+}
+
+textarea#textareae{
+  padding:6px;
+  width:272px;
+  border: solid 1px #E5E5E5;	
+  display:block;
+  font-size:15px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  resize:none;
+  height:35px
+}
+
+#formInputsSmall select{
+  padding:3px;
+  width:60px;
+  border: solid 1px #E5E5E5;	
+  font-size:12px;
+  background:	#EEEEEE ;
+  font-weight:bold;
+}
+
+
+
+#formButtosF{
+   padding:2px;
+
+}
+
+
+#signG,#members{
+	padding: 2px 3px 2px;
+	width:105px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #DDDDD8 #AFAFAF #797975;
+    background:  url(../customerManagement/image/but.png) repeat-x center bottom                                ;
+	font-family:Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-size: 13px;
+    white-space: nowrap;
+    overflow: visible; /* keeps IE from making buttons too wide */
+	font-weight:bold;
+	
+	}
+
+#formButtosF input{
+    padding: 6px 7px 6px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #DDDDD8 #AFAFAF #797975;
+    background:  url(../customerManagement/image/but.png) repeat-x center bottom                                ;
+	font-family:Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-size: 13px;
+    white-space: nowrap;
+    overflow: visible; /* keeps IE from making buttons too wide */
+	font-weight:bold;
+}
+
+
+
+
+
+
+#formButtosF input:hover,#saech_bottons:hover{
+    border-color: #ACBACF #768092 #0A0B19;
+    background: #EDFFFF url(../customerManagement/image/buts.png) repeat-x center bottom;
+	cursor:pointer;
+}
+
+.formButton:active, .formMenuButton:active {
+    border-color:  #00000A #677183 #9DABC0;
+    background: url(../indiAccOpening/Images/butss.png) repeat-x center bottom;
+}
+
+#accoButond{
+	 width:300px;
+	 float:right;
+	 text-align:right;
+}
+
+#accoButond input{
+	padding: 2px 5px 2px;
+	width:80px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #DDDDD8 #AFAFAF #797975;
+    background:  url(../customerManagement/image/but.png) repeat-x center bottom                                ;
+	font-family:Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-size: 12px;
+    white-space: nowrap;
+    overflow: visible; /* keeps IE from making buttons too wide */
+	font-weight:bold;
+	cursor:pointer;
+}
+
+#accoButond input:hover{
+    border-color: #ACBACF #768092 #0A0B19;
+    background: #EDFFFF url(../customerManagement/image/buts.png) repeat-x center bottom;
+	cursor:pointer;
+}
+
+#accoButond input:active {
+    border-color:  #00000A #677183 #9DABC0;
+    background: url(../indiAccOpening/Images/butss.png) repeat-x center bottom;
+}
+
+.r1_tablePanel{
+	width:800px;
+	padding:20px;
+}
+
+#money_formates{
+    text-align: right;
+}
+
+#coheads{
+	border-left: solid 1px #E5E5E5;
+	border-top: solid 1px #E5E5E5;
+	border-right: solid 1px #E5E5E5;
+	padding:10px;
+	width:300px;
+	font-family:Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-size: 15px;
+    white-space: nowrap;
+	margin-top:30px;
+	margin-left:5px;
+	font-weight:bold;
+}
+
+#cohead{
+	border: solid 1px #E5E5E5;
+	width:300px;
+	padding:10px;
+	margin-left:5px;
+}
+
+#cohead table{
+	font-size: 15px;
+}
+
+
+#d12,#d13,#d14,#d15,#d16,#d17,#d18,#d19,#d10{ 
+	display:none
+}
+
+#tableSpance{
+  margin-left:30px;
+}
+
+
+#formInputs_100 input{
+    padding:3px;
+    width:100px;
+    border: solid 1px #E5E5E5;	
+	display:block;
+	font-size:16px;
+	/*background:	#EEEEEE ;*/
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+	font-weight:bold;
+}
+
+#formInputs_80 input{
+    padding:3px;
+    width:80px;
+    border: solid 1px #E5E5E5;	
+	display:block;
+	font-size:16px;
+	/*background:	#EEEEEE ;*/
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+	font-weight:bold;
+}
+
+#adTabs{
+width:460px;
+}
+
+#adTabsQ{
+width:350px;
+}
+
+#formInputsGenCon,#formInputs,#formInputs_80,#formInputsSmall,#formInputs_100,#formInputsFile,#formInputsFiles,#formInputs_readonly,#formInputsFilesName,#formInputsss{
+ padding:3px; 
+ margin-right:5px;
+}
+
+
+input#date_pickers_one,
+input#date_pickers_two,
+input#date_pickers_three,
+input#date_pickers_four,
+input#date_pickers_five,
+input#date_pickers_six,
+input#date_pickers_seven,
+input#date_pickers_eight{
+  background-image: url("../administration/image/48px-X-office-calendar.png");
+  background-position: right center;
+  background-repeat: no-repeat;
+  width:100px
+}
+
+
+input#date_pickers_onex,
+input#date_pickers_twox{
+  background-image: url("../administration/image/48px-X-office-calendar.png");
+  background-position: right center;
+  background-repeat: no-repeat;
+  width:200px;
+}
+
+
+input#date_pickers_onex:focus,
+input#date_pickers_twox:focus
+{
+  background-image: url("../administration/image/48px-X-office-calendar.png");
+  background-position: right center;
+  background-repeat: no-repeat;
+  width:200px;
+}
+
+input#date_pickers_one:focus,
+input#date_pickers_two:focus,
+input#date_pickers_three:focus,
+input#date_pickers_four:focus,
+input#date_pickers_five:focus,
+input#date_pickers_six:focus,
+input#date_pickers_seven:focus,
+input#date_pickers_eight:focus{
+  background-image: url("../administration/image/48px-X-office-calendar.png");
+  background-position: right center;
+  background-repeat: no-repeat;
+  width:100px;
+}
+
+#meniListS{
+			width:600px; 
+			border: solid 1px #E5E5E5;	
+			position:absolute; 
+			height: 190px; 
+			background:#FFFFFF;
+			overflow:scroll; 
+			font-family:Arial, Helvetica, sans-serif;
+ 			font-size:12px;
+ 			font-weight:bold;
+			z-index:2;
+}
+			
+.meHovers:hover{
+  color:#fff;
+	background-color:#7D96C4;
+	border:1px solid #3079ed;
+}			
+
+
+
+/* .yellow */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Individual Account Opening footer design css*/
+
+
+

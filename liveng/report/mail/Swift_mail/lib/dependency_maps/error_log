@@ -1,0 +1,12 @@
+[09-May-2015 17:07:08 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/mime_deps.php on line 5
+[09-May-2015 17:08:29 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/cache_deps.php on line 3
+[09-May-2015 21:22:15 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/transport_deps.php on line 3
+[10-May-2015 04:27:10 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/message_deps.php on line 3
+[02-Aug-2015 17:33:06 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/cache_deps.php on line 3
+[02-Aug-2015 17:33:10 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/message_deps.php on line 3
+[02-Aug-2015 17:33:14 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/mime_deps.php on line 5
+[02-Aug-2015 17:33:17 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/transport_deps.php on line 3
+[17-Nov-2015 22:29:09 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/mime_deps.php on line 5
+[17-Nov-2015 22:29:16 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/cache_deps.php on line 3
+[17-Nov-2015 22:29:24 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/message_deps.php on line 3
+[17-Nov-2015 22:29:37 CST6CDT] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/greatbr/public_html/census/mail/Swift_mail/lib/dependency_maps/transport_deps.php on line 3

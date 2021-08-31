@@ -1,0 +1,17 @@
+
+.container{
+    margin-top:3%;
+    /* border:1px solid #000; */
+}
+
+#conn{
+    background: #7ac431;
+    color:#fff;
+}
+
+#results1{
+    background: #ccc;
+    margin:.5%;
+    padding:1%;
+}
+

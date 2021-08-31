@@ -1,0 +1,7 @@
+{
+    "name": "mobiletrader/olukayodepaul",
+    "description": "This is composer for mobile trader by olukayode paul",
+    "require": {
+       "wisembly/elephant.io": "^2.0"
+    }
+}

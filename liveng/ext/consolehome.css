@@ -1,0 +1,180 @@
+/* CSS Document */
+
+#sidebar{
+	position: absolute;
+	width: 17%;
+	top:55px;
+	bottom:0;
+	left: 0;
+	overflow-y:scroll;
+	border-right: solid 1px #E5E5E5;
+	background:#F2ECFF;
+}
+
+
+
+#contentbar{
+ position: absolute;
+ width: 83%;
+ top:55px;
+ bottom:41px;
+ left:17%;
+ overflow-y:scroll;
+ background:#F2ECFF;
+}
+
+#contentbar_footers{
+ position: absolute;
+ width: 83%;
+ bottom:0;
+ left:17%;
+ float:right;
+ height:40px;
+ background:url(../admin/image/hbg.fw.png);
+}
+
+
+#contentbar_inner{
+	height:auto;
+	width:100%;
+	margin-bottom:10px;
+	
+}
+
+#fix_pabePanel{
+	position:fixed;
+	width:900px;
+	height:70px;
+	background:#FFF;
+	z-index:2
+}
+
+
+#accounttile{
+	font-size: 13px;
+    color: #000;
+    background:url(../admin/image/hbg.fw.png);
+	border-bottom:1px solid #CDD7DE;
+	border-left:1px solid #CDD7DE;
+	border-right:1px solid #CDD7DE;
+    margin: 0;
+    padding: 8px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin-bottom:5px;
+	margin-top:0px;
+	position:fixed;
+	width:79%;
+	z-index:3;
+	font-weight:bold;
+	height:18px;
+}
+
+
+#butoss input{   
+    padding: 2px 3px 2px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #DDDDD8 #AFAFAF #797975;
+    background:  url(admin/image/but.png) repeat-x center bottom                                ;
+	font-family:Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-size: 13px;
+    white-space: nowrap;
+    overflow: visible; /* keeps IE from making buttons too wide */
+	font-weight:bold;
+}
+
+
+#saveDiv{
+	font-size: 11px;
+    color: #000;
+    margin: 0;
+    padding: 8px;
+	font-family:Tahoma, Geneva, sans-serif;
+	margin-bottom:5px;
+	font-weight:bold;
+	margin-top:34px;
+	position:fixed;
+	width:76%;
+	background:#FFFFFF;
+}
+
+#tabelPanel{
+	margin-bottom:10px;
+}
+
+
+
+#accountf{ 
+width:750px;
+padding:5px;
+margin-left:15px;
+
+}
+
+
+#apMenu{ 
+ padding:10px;
+ border-bottom: solid 1px #CDD7DE;
+ border-right: solid 1px #CDD7DE;
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:12px;
+ font-weight:bold;
+ color: #000;
+ background:url(../admin/image/hbg.fw.png);
+ width:14%;
+ position:fixed;
+ z-index:3;
+ height:15px;
+
+ }
+ 
+ 
+ 
+ .tablebuttonbar {
+    width: 700px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+
+
+.tablenavigation {
+    text-align: left;
+    white-space: nowrap;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	
+}
+
+.tablenavigation img {
+    width: 1px;
+    height: 12px;
+    border: 0px;
+    margin: 0px 5px;
+    vertical-align: bottom;
+}
+
+ 
+#body_parent_div{
+  width:100%;
+  height:100%;	 
+}
+
+#header_parent_panels{
+   width:100%;	
+   background:url(../admin/image/appbg.fw.png); 
+   background-repeat:no-repeat;
+   height:53px;
+   border-bottom:2px #B0C6E0 solid
+}
+
+
+
+
+#close{
+  float: right;
+  cursor: pointer;
+  font-size: 15px;	
+}
